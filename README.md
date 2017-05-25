@@ -5,7 +5,7 @@ Bienvenidos a **Atarazana Labs**, el programa en el que construiras una Tech Sta
 ## Contenidos
 * [Requisitos](#requisitos)
 * [El programa](#programa)
-* [Inversionistas)](#inversionistas)
+* [Inversionistas](#inversionistas)
 * [Código de conducta](#codigo)
 
 ## <a name="requisitos">Quiero ser parte</a>
@@ -20,8 +20,7 @@ Bienvenidos a **Atarazana Labs**, el programa en el que construiras una Tech Sta
 
 Si piensas ser parte debes subir via pull request las informaciones que solicitan acerca de tu Startup ;)
 
-href="https://github.com/onilpereyra/atarazanalabs/master/startups/apply.md">Someter Startup</a>
-
+## <a name="startup" href="https://github.com/OnilPereyra/atarazanalabs/blob/master/startups/apply.md">Startups</a>
 
 #### Startups que aceptamos
 
@@ -57,7 +56,7 @@ href="https://github.com/onilpereyra/atarazanalabs/master/startups/apply.md">Som
 - Los inversionistas no tienen que pagar una membresia
 
 
-## <a name="codigo" href="https://github.com/onilpereyra/atarazanalabs/docs/codigodeconducta.md">Código de conducta</a>
+## <a name="codigo" href="https://github.com/OnilPereyra/atarazanalabs/blob/master/docs/codigodeconducta.md">Código de conducta</a>
 Cómo todo buen programa, en **Atarazana Labs** también tenemos un código de conducta que todos nuestros Startups deben seguir, si tienes un minuto puedes revisar en el link.
 
 ## Licencia
