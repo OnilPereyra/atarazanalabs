@@ -10,7 +10,7 @@ Bienvenidos a **Atarazana Labs**, el programa en el que construiras una Tech Sta
 
 ## <a name="requisitos">Quiero ser parte</a>
 
-- Duracion: 6 meses
+- Duracion: hasta un exit o IPO
 - Retiros semanales y horas de oficina
 - Inversion de capital tipicamente entre US$50,000 - US$100,000 a cambio de 5-10% de Equity
 - Asesores fundadores de Startups de gran traccion a nivel mundial
@@ -33,7 +33,6 @@ Si piensas ser parte debes subir via pull request las informaciones que solicita
 
 #### Requisitos
 
-- Aceptamos de 1 a tres Startups por batch
 - Enfoque en tecnologias disruptivas
 - Enfoque en grandes mercados
 - Que resuelvan un problema real y que esten en camino a un product market fit
